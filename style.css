@@ -1,0 +1,19 @@
+input.invalid {
+    background-color: Pink;
+}
+input.valid {
+    background-color: LightGreen;
+}
+[name="userName"] {
+    margin-left: 50px;
+}
+[name="email"] {
+    margin-left: 53px;
+}
+[name="zip"] {
+    margin-left: 39px;
+}
+[type="submit"] {
+    margin-top: 6px;
+    margin-left: 10px;
+}
